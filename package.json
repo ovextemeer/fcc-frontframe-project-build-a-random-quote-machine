@@ -1,0 +1,15 @@
+{
+  "name": "fcc-frontframe-project-build-a-random-quote-machine",
+  "version": "1.0.0",
+  "description": "fcc-frontframe-project-build-a-random-quote-machine",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["html", "css", "javascript"],
+  "author": "ovextemeer",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}

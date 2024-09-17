@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container {
+  max-width: 40%;
+}
+
+#quote-box {
+  background-color: white;
+  padding: 2rem;
+}
+
+#quote {
+  font-size: 2rem;
+  text-align: center;
+}
+
+#author {
+  text-align: right;
+}
+
+#author,
+a,
+button {
+  font-size: 1.5rem;
+}
+
+#controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  padding: 0.25rem;
+}
+
+a,
+button,
+#developer {
+  color: white;
+}
+
+#developer {
+  text-align: center;
+}
